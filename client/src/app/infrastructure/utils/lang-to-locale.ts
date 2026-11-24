@@ -15,7 +15,7 @@ export function langToLocale(lang: string): string {
         case `de`: {
             return `de-DE`;
         }
-        case `cz`: {
+        case `cs`: {
             return `cs-CZ`;
         }
         default: {
